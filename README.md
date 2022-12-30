@@ -83,18 +83,10 @@ It's a list of the best programs on macOS (and window) for devs and other users
 
 (link for reference only)[https://appstorrent.ru]
 
-|#| Name | Key words
-|--|--|--|--|
-|1| [WebStorm](https://www.jetbrains.com/webstorm/?ysclid=lc6o1w1s6b844365179)
-|2| [Bootstrap Studio](https://bootstrapstudio.io)
-|3| [GitKraken](https://www.gitkraken.com)
+|#| Name | Key words |
+|--|--|--|
+|1| [WebStorm](https://www.jetbrains.com/webstorm/?ysclid=lc6o1w1s6b844365179)|
+|2| [Bootstrap Studio](https://bootstrapstudio.io) |
+|3| [GitKraken](https://www.gitkraken.com) |
 |4| |
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-
+|5| |
