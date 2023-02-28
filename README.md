@@ -37,12 +37,17 @@ It's a list of the best programs on macOS (and window) for devs and other users
 |2| [firefox](https://www.mozilla.org/ru/firefox/channel/desktop/)
 |3| [duckduckgo](https://duckduckgo.com/mac)
 
-### art
+### Design
 
-|#| Name 
-|--|--|
+|#| Name | | |
+|--|--|--|--|
 |1| [Figma](https://www.figma.com/downloads/)
 |2| [Pixso](https://pixso.net)
+|3| [Blender](https://www.blender.org)
+|4| [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Видеоредактор | Это приложение для цветокоррекции и нелинейного редактирования видео
+|5| [Icon Scout](https://iconscout.com) | icons store
+|6| [Final Cut Pro](https://appstorrent.ru/48-final-cut-pro.html)
+|7| [Color Well](https://appstorrent.ru/124-colorwell.html) | генератор цветовых палитр| Красивая и интуитивно понятная палитра цветов и генератор цветовых палитр - необходимое дополнение к набору инструментов любого разработчика веб-приложений или приложений!
 
 
 ### text 
@@ -76,8 +81,9 @@ It's a list of the best programs on macOS (and window) for devs and other users
 |17| [Yoink](https://appstorrent.ru/339-yoink.html)
 |18| [multitouch](https://appstorrent.ru/327-multitouch.html)
 |19| [Bartender 4](https://appstorrent.ru/133-macbartender.html)
-|20| [Final Cut Pro](https://appstorrent.ru/48-final-cut-pro.html)
-|21| [TextSniper](https://appstorrent.ru/448-textsniper.html)
+|20| [TextSniper](https://appstorrent.ru/448-textsniper.html)
+|21| [Daisy Disk](https://appstorrent.ru/126-daisydisk.html)
+|22| 
 
 ## Paid for devs
 
